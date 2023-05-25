@@ -1,0 +1,376 @@
+{
+    "data": {
+        "verificationTaskConfig": {
+            "status": "CREATED",
+            "canStart": true,
+            "maxEnergyReward": 20,
+            "totalEnergyRewarded": 0,
+            "currentTask": null,
+            "tasks": [
+                {
+                    "id": "3f5a7070-b087-40e1-9978-2a4beb173d41",
+                    "status": "FAILED",
+                    "failureReason": "NO_CODE",
+                    "maxEnergyReward": 4,
+                    "energyRewarded": 0,
+                    "isRated": false,
+                    "petExperienceRewards": [],
+                    "socialTask": {
+                        "id": "6f6699e0-0c3f-4522-adc9-edbc8507a2d2",
+                        "platform": "instagram",
+                        "platformUsername": "vitalya_trenenkov",
+                        "pet": {
+                            "id": "f71d81d4-99a3-40e4-b2d4-64f408320b36",
+                            "name": "Rich",
+                            "image": {
+                                "id": "7ab6a293-5543-4a16-8953-32b860b0eb8d",
+                                "filename": "7ab6a293-5543-4a16-8953-32b860b0eb8d.jpeg",
+                                "url": "https://igu-nfts.s3.eu-central-1.amazonaws.com/7ab6a293-5543-4a16-8953-32b860b0eb8d.jpeg",
+                                "thumbnailUrl": "https://igu-nfts.s3.eu-central-1.amazonaws.com/7ab6a293-5543-4a16-8953-32b860b0eb8d.thumbnail.jpeg",
+                                "type": "NFT_IMAGE",
+                                "status": "UPLOADED",
+                                "signedUploadUrl": null,
+                                "metadata": {
+                                    "isFromCamera": false,
+                                    "isFromGallery": true,
+                                    "detectionResult": [
+                                        {
+                                            "label": "Animal",
+                                            "confidence": 99.49002838134766,
+                                            "__typename": "DetectionResult"
+                                        },
+                                        {
+                                            "label": "Pet",
+                                            "confidence": 99.49002838134766,
+                                            "__typename": "DetectionResult"
+                                        },
+                                        {
+                                            "label": "Kitten",
+                                            "confidence": 99.49002838134766,
+                                            "__typename": "DetectionResult"
+                                        },
+                                        {
+                                            "label": "Cat",
+                                            "confidence": 99.49002838134766,
+                                            "__typename": "DetectionResult"
+                                        },
+                                        {
+                                            "label": "Mammal",
+                                            "confidence": 99.49002838134766,
+                                            "__typename": "DetectionResult"
+                                        },
+                                        {
+                                            "label": "Angora",
+                                            "confidence": 94.16311645507812,
+                                            "__typename": "DetectionResult"
+                                        },
+                                        {
+                                            "label": "Manx",
+                                            "confidence": 77.06314849853516,
+                                            "__typename": "DetectionResult"
+                                        }
+                                    ],
+                                    "backgroundId": "bar",
+                                    "text2ImageTaskId": null,
+                                    "__typename": "FileMetadata"
+                                },
+                                "updatedAt": "2023-04-29T11:04:20.125Z",
+                                "createdAt": "2023-02-10T09:36:08.291Z",
+                                "__typename": "File"
+                            },
+                            "rank": "free",
+                            "tokenId": null,
+                            "level": 10,
+                            "experience": 400,
+                            "health": 100,
+                            "likeCount": 136,
+                            "dislikeCount": 8,
+                            "currentOwnerAddress": "0xca15d1a797ec21f48865c981dcbbec8567f9fffa",
+                            "creatorAddress": "0xca15d1a797ec21f48865c981dcbbec8567f9fffa",
+                            "lastTransferAt": null,
+                            "updatedAt": "2023-05-25T10:02:10.262Z",
+                            "createdAt": "2023-02-10T09:36:28.281Z",
+                            "isMinted": false,
+                            "cooldownExpiresAt": null,
+                            "levelProgressPercentage": 100,
+                            "currentLevelMaxExperience": 400,
+                            "explorerUrl": null,
+                            "__typename": "Pet"
+                        },
+                        "__typename": "SocialTaskOutput"
+                    },
+                    "updatedAt": "2023-05-25T10:29:52.759Z",
+                    "createdAt": "2023-05-25T10:19:38.508Z",
+                    "remainingVerificationAttempts": 5,
+                    "__typename": "VerificationTask"
+                },
+                {
+                    "id": "fe763a97-3355-4038-9b7b-d0a8cadd7a0f",
+                    "status": "FAILED",
+                    "failureReason": "NO_CODE",
+                    "maxEnergyReward": 4,
+                    "energyRewarded": 0,
+                    "isRated": false,
+                    "petExperienceRewards": [],
+                    "socialTask": {
+                        "id": "86e76f71-d996-43c2-894b-715e444d5afa",
+                        "platform": "instagram",
+                        "platformUsername": "mubarakru",
+                        "pet": {
+                            "id": "d9d3cfd8-ac8c-4fe4-a67e-64b4d491fa0f",
+                            "name": "Skatina",
+                            "image": {
+                                "id": "f8e43e77-1ee8-4333-bbf3-80fa2aa5f7ef",
+                                "filename": "f8e43e77-1ee8-4333-bbf3-80fa2aa5f7ef.jpeg",
+                                "url": "https://igu-nfts.s3.eu-central-1.amazonaws.com/f8e43e77-1ee8-4333-bbf3-80fa2aa5f7ef.jpeg",
+                                "thumbnailUrl": "https://igu-nfts.s3.eu-central-1.amazonaws.com/f8e43e77-1ee8-4333-bbf3-80fa2aa5f7ef.thumbnail.jpeg",
+                                "type": "NFT_IMAGE",
+                                "status": "UPLOADED",
+                                "signedUploadUrl": null,
+                                "metadata": {
+                                    "isFromCamera": false,
+                                    "isFromGallery": true,
+                                    "detectionResult": [
+                                        {
+                                            "label": "Animal",
+                                            "confidence": 99.36188507080078,
+                                            "__typename": "DetectionResult"
+                                        },
+                                        {
+                                            "label": "Fish",
+                                            "confidence": 99.28228759765625,
+                                            "__typename": "DetectionResult"
+                                        },
+                                        {
+                                            "label": "Manta Ray",
+                                            "confidence": 91.59326934814453,
+                                            "__typename": "DetectionResult"
+                                        },
+                                        {
+                                            "label": "Shark",
+                                            "confidence": 80.64299011230469,
+                                            "__typename": "DetectionResult"
+                                        }
+                                    ],
+                                    "backgroundId": "capsule",
+                                    "text2ImageTaskId": null,
+                                    "__typename": "FileMetadata"
+                                },
+                                "updatedAt": "2023-04-29T11:49:16.246Z",
+                                "createdAt": "2023-01-10T13:53:24.682Z",
+                                "__typename": "File"
+                            },
+                            "rank": "rare",
+                            "tokenId": "13669",
+                            "level": 9,
+                            "experience": 598,
+                            "health": 0,
+                            "likeCount": 234,
+                            "dislikeCount": 11,
+                            "currentOwnerAddress": "0x0e5d82e5435c2e2077d95351fe3dd80779011026",
+                            "creatorAddress": "0x0e5d82e5435c2e2077d95351fe3dd80779011026",
+                            "lastTransferAt": null,
+                            "updatedAt": "2023-05-25T10:06:00.293Z",
+                            "createdAt": "2023-01-10T13:53:42.646Z",
+                            "isMinted": true,
+                            "cooldownExpiresAt": null,
+                            "levelProgressPercentage": 100,
+                            "currentLevelMaxExperience": 598,
+                            "explorerUrl": "https://bscscan.com/token/0x694733Ab1618A275D7E4b20d05fAaf450D56EfC6?a=13669",
+                            "__typename": "Pet"
+                        },
+                        "__typename": "SocialTaskOutput"
+                    },
+                    "updatedAt": "2023-05-25T10:05:39.521Z",
+                    "createdAt": "2023-05-25T10:05:17.510Z",
+                    "remainingVerificationAttempts": 5,
+                    "__typename": "VerificationTask"
+                },
+                {
+                    "id": "9e9173a4-60ac-4e17-98aa-74252ea9443f",
+                    "status": "FAILED",
+                    "failureReason": "NO_CODE",
+                    "maxEnergyReward": 4,
+                    "energyRewarded": 0,
+                    "isRated": false,
+                    "petExperienceRewards": [],
+                    "socialTask": {
+                        "id": "f1c1ea69-927a-4b67-97d3-d2c3bb972ade",
+                        "platform": "instagram",
+                        "platformUsername": "roman.777.r",
+                        "pet": {
+                            "id": "55ea98c1-85e6-4b79-b8e4-59b0f390e339",
+                            "name": "Richmond",
+                            "image": {
+                                "id": "0f6921ba-84cd-41b0-bd82-73a8b422a626",
+                                "filename": "0f6921ba-84cd-41b0-bd82-73a8b422a626.jpeg",
+                                "url": "https://igu-nfts.s3.eu-central-1.amazonaws.com/0f6921ba-84cd-41b0-bd82-73a8b422a626.jpeg",
+                                "thumbnailUrl": "https://igu-nfts.s3.eu-central-1.amazonaws.com/0f6921ba-84cd-41b0-bd82-73a8b422a626.thumbnail.jpeg",
+                                "type": "NFT_IMAGE",
+                                "status": "UPLOADED",
+                                "signedUploadUrl": null,
+                                "metadata": {
+                                    "isFromCamera": null,
+                                    "isFromGallery": null,
+                                    "detectionResult": null,
+                                    "backgroundId": null,
+                                    "text2ImageTaskId": "d86810bf-9399-49e5-8b9d-eebb12b8aca3",
+                                    "__typename": "FileMetadata"
+                                },
+                                "updatedAt": "2023-01-14T15:50:46.696Z",
+                                "createdAt": "2023-01-14T15:50:46.696Z",
+                                "__typename": "File"
+                            },
+                            "rank": "uncommon",
+                            "tokenId": "18678",
+                            "level": 10,
+                            "experience": 550,
+                            "health": 100,
+                            "likeCount": 239,
+                            "dislikeCount": 2,
+                            "currentOwnerAddress": "0x79c4895fff82e4233533f14547d1e6cd70e4c33a",
+                            "creatorAddress": "0x79c4895fff82e4233533f14547d1e6cd70e4c33a",
+                            "lastTransferAt": null,
+                            "updatedAt": "2023-05-25T05:45:00.831Z",
+                            "createdAt": "2023-01-14T15:51:19.173Z",
+                            "isMinted": true,
+                            "cooldownExpiresAt": null,
+                            "levelProgressPercentage": 100,
+                            "currentLevelMaxExperience": 550,
+                            "explorerUrl": "https://bscscan.com/token/0x694733Ab1618A275D7E4b20d05fAaf450D56EfC6?a=18678",
+                            "__typename": "Pet"
+                        },
+                        "__typename": "SocialTaskOutput"
+                    },
+                    "updatedAt": "2023-05-25T10:04:32.387Z",
+                    "createdAt": "2023-05-25T10:01:40.892Z",
+                    "remainingVerificationAttempts": 5,
+                    "__typename": "VerificationTask"
+                },
+                {
+                    "id": "4fab4ed6-5cd6-496e-a305-84d8f08b3989",
+                    "status": "FAILED",
+                    "failureReason": "NO_CODE",
+                    "maxEnergyReward": 4,
+                    "energyRewarded": 0,
+                    "isRated": false,
+                    "petExperienceRewards": [],
+                    "socialTask": {
+                        "id": "c4921765-d63d-4d44-ac36-18e28dada0e2",
+                        "platform": "instagram",
+                        "platformUsername": "ka.66.14.88",
+                        "pet": {
+                            "id": "fa2d1dfc-fc33-4677-8e64-b78eddfeba0b",
+                            "name": "FADZAEV",
+                            "image": {
+                                "id": "dbce1372-fa3d-47d4-8d9d-b98f074c135b",
+                                "filename": "dbce1372-fa3d-47d4-8d9d-b98f074c135b.jpeg",
+                                "url": "https://igu-nfts.s3.eu-central-1.amazonaws.com/dbce1372-fa3d-47d4-8d9d-b98f074c135b.jpeg",
+                                "thumbnailUrl": "https://igu-nfts.s3.eu-central-1.amazonaws.com/dbce1372-fa3d-47d4-8d9d-b98f074c135b.thumbnail.jpeg",
+                                "type": "NFT_IMAGE",
+                                "status": "UPLOADED",
+                                "signedUploadUrl": null,
+                                "metadata": {
+                                    "isFromCamera": null,
+                                    "isFromGallery": null,
+                                    "detectionResult": null,
+                                    "backgroundId": null,
+                                    "text2ImageTaskId": "021a28d4-d554-4dc7-b7b5-6ace8060fd86",
+                                    "__typename": "FileMetadata"
+                                },
+                                "updatedAt": "2023-02-13T18:38:54.111Z",
+                                "createdAt": "2023-02-13T18:38:54.111Z",
+                                "__typename": "File"
+                            },
+                            "rank": "rare",
+                            "tokenId": "29704",
+                            "level": 4,
+                            "experience": 266,
+                            "health": 100,
+                            "likeCount": 255,
+                            "dislikeCount": 8,
+                            "currentOwnerAddress": "0x90ad2d667bb6b58d234ea11aa64356812c70f4df",
+                            "creatorAddress": "0x90ad2d667bb6b58d234ea11aa64356812c70f4df",
+                            "lastTransferAt": null,
+                            "updatedAt": "2023-05-25T09:59:00.844Z",
+                            "createdAt": "2023-02-13T18:39:09.833Z",
+                            "isMinted": true,
+                            "cooldownExpiresAt": null,
+                            "levelProgressPercentage": 100,
+                            "currentLevelMaxExperience": 266,
+                            "explorerUrl": "https://bscscan.com/token/0x694733Ab1618A275D7E4b20d05fAaf450D56EfC6?a=29704",
+                            "__typename": "Pet"
+                        },
+                        "__typename": "SocialTaskOutput"
+                    },
+                    "updatedAt": "2023-05-25T10:01:37.419Z",
+                    "createdAt": "2023-05-25T09:58:39.351Z",
+                    "remainingVerificationAttempts": 5,
+                    "__typename": "VerificationTask"
+                },
+                {
+                    "id": "2cfe29b8-9d40-4ec6-b109-1b4275d4c2aa",
+                    "status": "FAILED",
+                    "failureReason": "NO_CODE",
+                    "maxEnergyReward": 4,
+                    "energyRewarded": 0,
+                    "isRated": false,
+                    "petExperienceRewards": [],
+                    "socialTask": {
+                        "id": "d4e95b5a-95f1-4977-8492-9301141a1e5e",
+                        "platform": "instagram",
+                        "platformUsername": "viktor.malik.75",
+                        "pet": {
+                            "id": "d13dbdd8-cfc6-4109-9b23-0f2f8fd77b0f",
+                            "name": "Momo",
+                            "image": {
+                                "id": "2e2d6aaf-ac3e-4eef-a8a7-70f0993f639a",
+                                "filename": "2e2d6aaf-ac3e-4eef-a8a7-70f0993f639a.jpeg",
+                                "url": "https://igu-nfts.s3.eu-central-1.amazonaws.com/2e2d6aaf-ac3e-4eef-a8a7-70f0993f639a.jpeg",
+                                "thumbnailUrl": "https://igu-nfts.s3.eu-central-1.amazonaws.com/2e2d6aaf-ac3e-4eef-a8a7-70f0993f639a.thumbnail.jpeg",
+                                "type": "NFT_IMAGE",
+                                "status": "UPLOADED",
+                                "signedUploadUrl": null,
+                                "metadata": {
+                                    "isFromCamera": null,
+                                    "isFromGallery": null,
+                                    "detectionResult": null,
+                                    "backgroundId": null,
+                                    "text2ImageTaskId": "a1155a35-a01f-4230-a478-2067a388e621",
+                                    "__typename": "FileMetadata"
+                                },
+                                "updatedAt": "2023-01-29T18:29:24.505Z",
+                                "createdAt": "2023-01-29T18:29:24.505Z",
+                                "__typename": "File"
+                            },
+                            "rank": "unusual",
+                            "tokenId": "24878",
+                            "level": 10,
+                            "experience": 605,
+                            "health": 100,
+                            "likeCount": 133,
+                            "dislikeCount": 7,
+                            "currentOwnerAddress": "0xb3f8152bcd7131d9fe1e4a978bc29459f3cb7817",
+                            "creatorAddress": "0xb3f8152bcd7131d9fe1e4a978bc29459f3cb7817",
+                            "lastTransferAt": null,
+                            "updatedAt": "2023-05-25T09:58:35.710Z",
+                            "createdAt": "2023-01-29T18:29:40.135Z",
+                            "isMinted": true,
+                            "cooldownExpiresAt": null,
+                            "levelProgressPercentage": 100,
+                            "currentLevelMaxExperience": 605,
+                            "explorerUrl": "https://bscscan.com/token/0x694733Ab1618A275D7E4b20d05fAaf450D56EfC6?a=24878",
+                            "__typename": "Pet"
+                        },
+                        "__typename": "SocialTaskOutput"
+                    },
+                    "updatedAt": "2023-05-25T09:58:09.419Z",
+                    "createdAt": "2023-05-25T09:57:42.367Z",
+                    "remainingVerificationAttempts": 5,
+                    "__typename": "VerificationTask"
+                }
+            ],
+            "__typename": "VerificationTaskConfigOutput"
+        }
+    }
+}
